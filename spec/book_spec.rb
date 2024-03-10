@@ -1,4 +1,4 @@
-require_relative '../lib/Book.rb'
+require_relative '../lib/book.rb'
 
 RSpec.describe Book do
   before(:each) do
